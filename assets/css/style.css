@@ -1,0 +1,79 @@
+header
+	{
+		border color: #cccccc;
+	}
+#header
+	{
+	background-color: #4aaaa5;
+	width:270px;
+	font-family: Georgia;
+	color: white;
+	height: 50px;
+	padding-top: 30px;
+	padding-left: 10px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	}
+.span
+	{
+	background-color: #ffffff;
+	width:860px;
+	}
+#BodyHeading
+	{
+	color: #4aaaa5;
+	margin-left: 20px
+	}
+nav
+	{
+	float: right;
+	margin-right:100px;
+	}
+body 
+	{
+    background-color: #F5F5F5;
+    width:860px;
+    margin: auto;
+    }
+ .main
+	{
+	background-color: #ffffff;
+	columns: 2;
+	font-family : arial;
+	column-rule: 20px outset #F5F5F5;
+	}
+  .content
+   {
+	margin-left : 20px;
+	padding-right: 20px;
+   }
+ #privatePic
+	{
+	float: left;
+	width: 160px;
+	height:120px;
+	margin-right : 20px;
+
+ 	}
+
+#connect1
+{
+	color: #4aaaa5; 
+}
+ 
+ .connect
+	{
+	float: left;
+	width: 40px;
+	height:40px;
+	padding:5px;
+ 	}
+
+footer
+	{
+	clear: both;
+	background-color: #666666;
+	text-align: center;
+	font-family: sans-serif;
+	color: white;
+	}
