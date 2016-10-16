@@ -1,79 +1,101 @@
-header
-	{
-		border color: #cccccc;
-	}
-#header
-	{
-	background-color: #4aaaa5;
-	width:270px;
-	font-family: Georgia;
-	color: white;
-	height: 50px;
-	padding-top: 30px;
-	padding-left: 10px;
-	padding-right: 0px;
-	padding-bottom: 10px;
-	}
-.span
-	{
-	background-color: #ffffff;
-	width:860px;
-	}
-#BodyHeading
-	{
-	color: #4aaaa5;
-	margin-left: 20px
-	}
-nav
-	{
-	float: right;
-	margin-right:100px;
-	}
 body 
 	{
     background-color: #F5F5F5;
     width:860px;
-    margin: auto;
     }
- .main
+#mainHeader
 	{
-	background-color: #ffffff;
-	columns: 2;
-	font-family : arial;
-	column-rule: 20px outset #F5F5F5;
+		background-color: #ffffff;
+		border-color: #cccccc;
+		height: 80px;
+		font-family: Georgia;
 	}
-  .content
-   {
-	margin-left : 20px;
-	padding-right: 20px;
-   }
+#header
+	{
+	background-color: #4aaaa5;
+	float: left;
+	color: white;
+	text-align: center;
+	margin-left: 45px;
+	padding: 5px;
+	}
+
+#BodyHeading
+	{
+	color: #4aaaa5;
+	}
+nav
+	{
+	float: right;
+	margin-right:60px;
+	margin-top: 40px;
+	}
+
+ #mainSection
+	{
+	margin-left: 40px;
+   border-color: #dddddd;
+   width:100%;
+   position: static;
+	}
+#subSection
+	{
+	width:60%;
+	height: 500px;
+	padding-left: 20px;
+	padding-right: 20px; 
+	padding-top: 20px;
+	padding-bottom: 20px;
+ 	background-color: #ffffff;
+	font-family : arial;
+
+	}
+ aside
+	{
+	width:20%;
+	float:left;
+	position: relative;
+	top : -540px;
+	background-color: #ffffff; 
+	padding: 10px;
+	margin-left: 580px;
+	}
  #privatePic
 	{
 	float: left;
-	width: 160px;
-	height:120px;
-	margin-right : 20px;
-
+	width: 140px;
+	height:100px;
+	margin-right: 20px;
  	}
 
-#connect1
+ #connect1
 {
 	color: #4aaaa5; 
 }
  
  .connect
 	{
-	float: left;
 	width: 40px;
 	height:40px;
-	padding:5px;
+	padding: 5px
  	}
+
+.portfolioPic
+	{
+	float: left;
+	width: 180px;
+	height:140px;
+	margin-right: 20px;	
+	}
 
 footer
 	{
 	clear: both;
+	border-top: 5px solid #4aaaa5; 
 	background-color: #666666;
 	text-align: center;
 	font-family: sans-serif;
 	color: white;
+	position: relative;
+	top : -110px;
 	}
