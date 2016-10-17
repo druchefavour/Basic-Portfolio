@@ -1,7 +1,7 @@
 body 
 	{
     background-color: #F5F5F5;
-    width:860px;
+    width:960px;
     }
 #mainHeader
 	{
@@ -35,12 +35,12 @@ nav
 	{
 	margin-left: 40px;
    border-color: #dddddd;
-   width:100%;
+   width:960px;
    position: static;
 	}
 #subSection
 	{
-	width:60%;
+	width:570px;
 	height: 500px;
 	padding-left: 20px;
 	padding-right: 20px; 
@@ -52,13 +52,13 @@ nav
 	}
  aside
 	{
-	width:20%;
+	width:160px;
 	float:left;
 	position: relative;
 	top : -540px;
 	background-color: #ffffff; 
 	padding: 10px;
-	margin-left: 580px;
+	margin-left: 660px;
 	}
  #privatePic
 	{
@@ -83,10 +83,17 @@ nav
 .portfolioPic
 	{
 	float: left;
-	width: 180px;
-	height:140px;
-	margin-right: 20px;	
+	width: 160px;
+	height:120px;
+	margin-right: 20px;
+	margin-top: 20px;		
 	}
+
+input[type=submit] 
+{
+    background-color:#4aaaa5;
+    color: white; 
+}
 
 footer
 	{
