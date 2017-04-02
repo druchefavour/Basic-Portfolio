@@ -65,10 +65,10 @@ HTML is written semantically, too:
      * The entire content area is 960px wide.
      * The main section content is 650px wide.
      * The sidebar is 270px wide.
-     * The chrome [Page Ruler] (https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn/related?hl=en) extension is used to measure the size of elements
+     * The chrome [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn/related?hl=en) extension is used to measure the size of elements
 
 * Finally the pages are made more sophisticated by adding style to text links, image links and buttons for when a user hovers their cursor over them. 
-* [Adobe Kuler] (https://color.adobe.com/create/color-wheel/) is used for finding colors that match the theme (In this case, the primary color is Teal #4aaaa5).
+* [Adobe Kuler](https://color.adobe.com/create/color-wheel/) is used for finding colors that match the theme (In this case, the primary color is Teal #4aaaa5).
 
 * The html is validated using [Validator](https://validator.w3.org/#validate_by_input)
 
